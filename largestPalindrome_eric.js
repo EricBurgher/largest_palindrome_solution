@@ -8,7 +8,7 @@
 //  0. Obtain this file from https://github.com/ankur-cp/largest_palindrome_solution
 //  1. Rename this file, substituting "yourname" with your name
 //  2. Replace "yourname" with your name in the variable below
-exports.name = "yourname";
+exports.name = "eric";
 //  3. Add your optimizations to the solution below
 //  4. Submit a pull request
 
